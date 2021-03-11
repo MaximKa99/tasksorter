@@ -7,11 +7,11 @@
 
 ### Как запустить?
 Необходимо перейти в корень проекта и в консоли ввести
-'mvn exec:java -Dexec.mainClass=com.multikart.tasksorter.App'
+`mvn exec:java -Dexec.mainClass=com.multikart.tasksorter.App`
 
 ### Как запустить тесты?
 Также необходимо из корня проекта запустить команду
-'mvn test'
+`mvn test`
 
 ### Автор
 https://github.com/MaximKa99
