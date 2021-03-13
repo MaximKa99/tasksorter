@@ -2,3 +2,6 @@ target
 tasksorter.iml
 .idea
 output
+.gradle
+gradlew
+gradlew.bat
