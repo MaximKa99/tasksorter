@@ -24,6 +24,8 @@ version = '1.0-SNAPSHOT'
 description = 'tasksorter'
 java.sourceCompatibility = JavaVersion.VERSION_1_8
 
+mainClassName = "com.multikart.tasksorter.App"
+
 //publishing {
 //    publications {
 //        maven(MavenPublication) {

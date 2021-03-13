@@ -7,11 +7,11 @@
 
 ### Как запустить?
 Необходимо перейти в корень проекта и в консоли ввести
-`mvn exec:java -Dexec.mainClass=com.multikart.tasksorter.App`
+`gradle run`
 
 ### Как запустить тесты?
 Также необходимо из корня проекта запустить команду
-`mvn test`
+`gradle test`
 
 ### Автор
 https://github.com/MaximKa99
